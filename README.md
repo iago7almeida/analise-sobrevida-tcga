@@ -29,4 +29,4 @@ Este projeto investiga a relação entre mutações genéticas somáticas e a so
 ## 🚀 Como Executar
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repo.git](https://github.com/iago7almeida/analise-sobrevida-tcga)
+   git clone (https://github.com/iago7almeida/analise-sobrevida-tcga)
